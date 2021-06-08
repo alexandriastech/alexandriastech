@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [website] (https://alexandriastech.me/)
+- 📫 How to reach me: ... [Personal Site](https://alexandriastech.me/)
 - 😄 Pronouns: She/Her
 
