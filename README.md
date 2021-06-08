@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Look Below to See What I'm Working On! 👋
 
 - 🔭 I’m currently working on #100DaysofCodeChallege for Front-End Development.
 - 🌱 I’m currently learning HTML, CSS, Javascript as well as Linux commands.
