@@ -2,9 +2,8 @@
 
 ## Look Below to See What I'm Working On! 👋 
 
-- 🔭 I’m currently working on #100DaysofCodeChallege for Front-End Development.
-- 🌱 I’m currently learning HTML, CSS, Tailwind CSS, and Javascript as well as Linux commands.
-- 💬 Ask me about ... Anything
+- 🔭 I’m currently working on <b>100 Days of Code</b> Challenge for Front-End Development.
+- 🌱 I’m currently learning <b> HTML, CSS, Tailwind CSS, and Javascript</b> as well as <b>Linux</b> commands.
 - 📫 How to reach me: ... [Personal Site UNDER CONSTRUCTION]
 - 😄 Pronouns: She/Her
 
@@ -14,4 +13,4 @@
 
 
 ## Connect with me! 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ironheart93) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/alexandriastech) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alexandriastech) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/alexandriastech)
+<a href="https://twitter.com/AlexandriasTech"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40"> </a>
