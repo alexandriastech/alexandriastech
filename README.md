@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with mentorshop.
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Personal Site]
+- 📫 How to reach me: ... [Personal Site UNDER CONSTRUCTION]
 - 😄 Pronouns: She/Her
 
 
