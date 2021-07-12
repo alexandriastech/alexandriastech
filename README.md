@@ -3,9 +3,7 @@
 ## Look Below to See What I'm Working On! 👋 
 
 - 🔭 I’m currently working on #100DaysofCodeChallege for Front-End Development.
-- 🌱 I’m currently learning HTML, CSS, Javascript as well as Linux commands.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with mentorshop.
+- 🌱 I’m currently learning HTML, CSS, Tailwind CSS, and Javascript as well as Linux commands.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Personal Site UNDER CONSTRUCTION]
 - 😄 Pronouns: She/Her
