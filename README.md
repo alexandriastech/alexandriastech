@@ -2,6 +2,8 @@
 
 ## Look Below to See What I'm Working On! 👋 
 
+- 💻 Currently earning a bachelor's in Cybersecurity
+- 📕 Self-learning front-end web development
 - 🔭 I’m currently working on <b>100 Days of Code</b> Challenge for Front-End Development.
 - 🌱 I’m currently learning <b> HTML, CSS, Tailwind CSS, and Javascript</b> as well as <b>Linux</b> commands.
 - 📫 How to reach me: ... [Personal Site UNDER CONSTRUCTION]
