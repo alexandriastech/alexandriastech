@@ -42,4 +42,4 @@ Check out my blog! **[Blog](https://alexandriastech.com/) | [YouTube](https://ww
 - ✍🏽 I’m looking to collaborate/work on writing projects.
 - 🤔 I’m looking for help with social media management. 
 - 💬 Ask me about **Cybersecurity**
-- 📫 How to reach me: <br> ![Twitter](https://twitter.com/alexandriastech)
+- 📫 How to reach me: <br> [Twitter](https://twitter.com/alexandriastech)
