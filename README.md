@@ -29,7 +29,7 @@ Check out my blog! **[Blog](https://alexandriastech.com/) | [YouTube](https://ww
 **check out some articles i've written:** 
 <br>
 
-![Why it’s Important for New Software Developers to Document Their Tech Journey](https://documentwrite.dev/blog/why-its-important-for-new-software-developers-to-document-their-tech-journey)
+(https://documentwrite.dev/blog/why-its-important-for-new-software-developers-to-document-their-tech-journey)
 ![Social Media Guide for Nerds Trying to Get the Word Out](https://documentwrite.dev/blog/social-media-guide-for-nerds-trying-to-get-the-word-out/)
 
 
