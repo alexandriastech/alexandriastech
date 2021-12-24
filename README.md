@@ -5,7 +5,7 @@ I am **Alexandria** working as **Developer Advocate Intern @ BluBracket**. I am 
 Check out my blog! **[Blog](https://alexandriastech.com/) | [YouTube](https://www.youtube.com/alexandriastech)**
 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6uIsgftOQklQjRpUG9CkmQ?logoColor=%23E3056C&style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/alexandriastech/subscribers/UC6uIsgftOQklQjRpUG9CkmQ?logoColor=%23E3056C&style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC6uIsgftOQklQjRpUG9CkmQ?logoColor=%23E3056C&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/alexandriastech?logoColor=%23E3056C&style=social)
 
