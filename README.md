@@ -2,7 +2,7 @@
 
 I am **Alexandria** working as **Developer Advocate Intern @ BluBracket** and a **freelance technical writer**. A technology enthusiast with a history of working in the cybersecurity and computer science education environment. **Skilled in technical writing.**
 
-Check out my blog! **[Blog](https://alexandriastech.com/) | [YouTube](https://www.youtube.com/alexandriastech)**
+Read my Cybersecurity blog! **[Blog](https://alexandriastech.com/) | [YouTube](https://www.youtube.com/alexandriastech)**
 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC6uIsgftOQklQjRpUG9CkmQ?logoColor=%23E3056C&style=social)
