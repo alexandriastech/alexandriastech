@@ -37,7 +37,7 @@ Read my Cybersecurity blog! **[Blog](https://alexandriastech.com/) | [YouTube](h
 
 **about me:**
 - 👩🏽‍💻 I’m currently working as **Developer Advocate Intern @ BluBracket**
-- 📚 I’m currently learning **Network+**
+- 📚 I’m currently studying for the **Network+**
 - I like ![DuckDuckGo](https://img.shields.io/static/v1?logo=DuckDuckGo&label=&message=duckduckgo&color=E3056C&logoColor=white&style=round-square&link=)
 - ✍🏽 I’m looking to collaborate/work on writing projects.
 - 🤔 I’m looking for help with social media management. 
