@@ -36,6 +36,7 @@ Read my Cybersecurity blog! **[Blog](https://alexandriastech.com/) | [YouTube](h
 ---
 
 **about me:**
+
 - 👩🏽‍💻 I’m currently working as **Developer Advocate Intern @ BluBracket**
 - 📚 I’m currently studying for the **Network+**
 - I like ![DuckDuckGo](https://img.shields.io/static/v1?logo=DuckDuckGo&label=&message=duckduckgo&color=E3056C&logoColor=white&style=round-square&link=)
@@ -43,3 +44,5 @@ Read my Cybersecurity blog! **[Blog](https://alexandriastech.com/) | [YouTube](h
 - 🤔 I’m looking for help with social media management. 
 - 💬 Ask me about **Cybersecurity**
 - 📫 How to reach me: <br> [Twitter](https://twitter.com/alexandriastech)
+
+<a href="https://app.daily.dev/alexandriastech"><img src="https://api.daily.dev/devcards/4d15cb3aec174e94b682f79ca1193756.png?r=xl0" width="150" alt="Alexandria's Dev Card"/></a>
