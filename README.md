@@ -1,6 +1,6 @@
 ## Greetings ✨
 
-I am **Alexandria** working as **Developer Advocate Intern @ BluBracket** and a **freelance technical writer**. A technology enthusiast with a history of working in the cybersecurity and computer science education environment. **Skilled in technical writing.**
+I am **Alexandria** working as **lead technical writer** for DocumentWrite. A technology enthusiast with a history of working in the cybersecurity and computer science education environment. **Skilled in technical writing.**
 
 Read my technical writing portfolio + blog here! **[Blog](https://www.alexandriawrites.tech/) | [YouTube](https://www.youtube.com/alexandriastech)**
 
