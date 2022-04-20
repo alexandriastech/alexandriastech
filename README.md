@@ -37,12 +37,11 @@ Read my technical writing portfolio + blog here! **[Blog](https://www.alexandria
 
 **about me:**
 
-- 👩🏽‍💻 I’m currently working as **Lead Technical Writer at @DocumentWrites**
-- 📚 I’m currently studying for the **Network+**
+- 👩🏽‍💻 I’m currently working as **Lead Technical Writer at @DocumentWrites*
 - I like ![DuckDuckGo](https://img.shields.io/static/v1?logo=DuckDuckGo&label=&message=duckduckgo&color=E3056C&logoColor=white&style=round-square&link=)
 - ✍🏽 I’m looking to collaborate/work on writing projects.
 - 🤔 I’m looking for help with social media management. 
-- 💬 Ask me about **Cybersecurity**
+- 💬 Ask me about **Technical Writing**
 - 📫 How to reach me: <br> [Twitter](https://twitter.com/alexandriastech)
 
 <a href="https://app.daily.dev/alexandriastech"><img src="https://api.daily.dev/devcards/4d15cb3aec174e94b682f79ca1193756.png?r=xl0" width="150" alt="Alexandria's Dev Card"/></a>
