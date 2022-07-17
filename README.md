@@ -37,7 +37,7 @@ Read my technical writing portfolio + blog here! **[Blog](https://www.alexandria
 
 **about me:**
 
-- 👩🏽‍💻 I’m currently working as **Lead Technical Writer at @DocumentWrites*
+- 👩🏽‍💻 I’m currently working as *Lead Technical Writer at @DocumentWrites*
 - I like ![DuckDuckGo](https://img.shields.io/static/v1?logo=DuckDuckGo&label=&message=duckduckgo&color=E3056C&logoColor=white&style=round-square&link=)
 - ✍🏽 I’m looking to collaborate/work on writing projects.
 - 🤔 I’m looking for help with social media management. 
